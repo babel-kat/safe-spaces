@@ -1,0 +1,237 @@
+{
+  "Places": [
+
+    {
+      "id":"Holargos, Vitali",
+      "image": "vitali",
+      "city": "Athens",
+      "year" : "2006",
+      "months": "40",
+      "roommates": ["Mother" , "Father"],
+      "pets": ["A fish, a lovebird, and a bunny"],
+      "objects":   ["white bed", "white bookcase", "white desk", "red chair", "NEC laptop", "white speakers", "porcelain doll", "pink alarm", "acoustic guitar", "piano", "DKNY perfume", "monkey", "wooden clock", "painting", "mirror"],
+      "index" : "0",
+      "first_obj": ["white bed", "white bookcase", "white desk", "red chair", "NEC laptop", "white speakers", "porcelain doll", "pink alarm", "acoustic guitar", "piano", "DKNY perfume", "monkey", "wooden clock", "painting", "mirror"],
+      "color": [205, 158, 205],
+      "family": "Yes",
+      "fav": "piano"
+    },
+
+    {
+      "id":"Navmachias Ellis",
+      "image": "nav_ellis",
+      "city": "Patras",
+      "year" : "2007",
+      "months": "10",
+      "roommates": [],
+      "pets": ["None"],
+      "objects": ["white bed", "white bookcase", "brown desk", "red chair", "NEC laptop", "white speakers", "digital piano", "DKNY perfume", "monkey", "wooden clock", "painting", "mirror", "orange couch"],
+      "index" : "1",
+      "first_obj": ["digital piano", "orange couch"],
+      "color": [155, 114, 155],
+      "family": "Sort of",
+      "fav": "digital piano"
+    },
+
+    {
+      "id":"Grigoriou E'",
+      "image": "grE",
+      "city": "Patras",
+      "year" : "2008",
+      "months": "19",
+      "roommates": [],
+      "pets": ["None"],
+      "objects": ["white bed", "white bookcase", "brown desk", "red chair", "folding chairs", "orange couch", "NEC laptop", "white speakers", "acoustic guitar", "digital piano", "easel", "DKNY perfume", "wooden clock", "mirror" ],
+      "index" : "2",
+      "first_obj": ["folding chairs", "brown desk", "easel"],
+      "color": [155, 114, 155],
+      "family": "Sort of",
+      "fav": "digital piano"
+    },
+
+    {
+      "id":"Korinthou",
+      "image": "korinthou",
+      "city": "Patras",
+      "year" : "2009",
+      "months": "24",
+      "roommates": ["Ismini","Christina"],
+      "pets": ["Aris, a dog"],
+      "objects": ["white bed", "white bookcase", "brown desk", "red chair", "black chair", "folding chairs", "orange couch", "Acer laptop", "white speakers", "acoustic guitar", "digital piano", "easel", "DKNY perfume", "monkey", "wooden clock", "accessory bag", "mirror"],
+      "index" : "3",
+      "first_obj": ["Acer laptop", "accessory bag"],
+      "color": [155, 114, 155],
+      "family": "No",
+      "fav": "digital piano"
+    },
+
+    {
+      "id":"Drosia, El. Venizelou",
+      "image": "drosia",
+      "city": "Athens",
+      "year" : "2012",
+      "months": "20",
+      "roommates": ["Mother"],
+      "pets": ["Aris, a dog"],
+      "objects": ["white desk", "brown desk", "black chair", "folding chairs", "orange couch", "Acer laptop", "white speakers", "porcelain doll", "pink alarm", "acoustic guitar", "piano", "easel", "DKNY perfume", "monkey", "wooden clock", "painting", "accessory bag", "mirror", "black hard drive"],
+      "index" : "4",
+      "first_obj": ["green notebook", "black hard drive", "black chair"],
+      "color": [155, 114, 155],
+      "family": "Yes",
+      "fav": "digital piano"
+    },
+
+    {
+      "id":"Pagkrati, Agiou Fanouriou",
+      "image": "pagkrati4",
+      "city": "Athens",
+      "year" : "2014",
+      "months": "12",
+      "roommates": ["Eva"],
+      "pets": ["None"],
+      "objects": ["brown desk", "Acer laptop", "TurboX laptop", "DKNY perfume", "accessory bag", "green notebook", "black hard drive"],
+      "index" : "5",
+      "first_obj": ["TurboX laptop"],
+      "color": [155, 114, 155],
+      "family": "No",
+      "fav": "Acer laptop"
+    },
+
+    {
+      "id":"Secretari Coloma",
+      "image": "scolom",
+      "city": "Barcelona",
+      "year" : "2016",
+      "months": "6",
+      "roommates": ["Dimitri", "Cansu", "Elisa"],
+      "pets": ["None"],
+      "objects": ["TurboX laptop", "DKNY perfume", "accessory bag", "green notebook", "black hard drive"],
+      "index" : "6",
+      "first_obj": [],
+      "color": [107, 87, 107],
+      "family": "No",
+      "fav": "green notebook"
+    },
+
+    {
+      "id":"Oefelestrasse",
+      "image": "oefele2",
+      "city": "Munich",
+      "year" : "2016",
+      "months": "3",
+      "roommates": [],
+      "pets": ["None"],
+      "objects": ["TurboX laptop", "DKNY perfume", "accessory bag", "green notebook", "black hard drive"],
+      "index" : "7",
+      "first_obj": [],
+      "color": [107, 87, 107],
+      "family": "No",
+      "fav": "green notebook"
+    },
+
+    {
+      "id":"Holargos, 17is Noemvriou",
+      "image": "yiayia2",
+      "city": "Athens",
+      "year" : "2017",
+      "months": "11",
+      "roommates": ["Grandmother"],
+      "pets": ["None"],
+      "objects": ["TurboX laptop", "DKNY perfume", "accessory bag", "red hard drive", "green notebook", "black hard drive"],
+      "index" : "8",
+      "first_obj": ["red hard drive"],
+      "color": [107, 87, 107],
+      "family": "Yes",
+      "fav": "green notebook"
+    },
+
+    {
+      "id":"Nea Smyrni, Ellispontou",
+      "image": "nsm",
+      "city": "Athens",
+      "year" : "2018",
+      "months": "20",
+      "roommates": [],
+      "pets": ["Marla, a cat"],
+      "objects": ["brown desk", "black chair", "folding chairs", "acoustic guitar", "DKNY perfume", "painting", "accessory bag", "red hard drive", "red notebook", "black hard drive"],
+      "index" : "9",
+      "first_obj" : ["red notebook"],
+      "color": [107, 87, 107],
+      "family": "Sort of",
+      "fav": "red notebook"
+
+    },
+
+    {
+      "id":"Holargos, Doridos",
+      "image": "Doridos",
+      "city": "Athens",
+      "year" : "2020",
+      "months": "6",
+      "roommates": [],
+      "pets": ["Marla, a cat"],
+      "objects": ["brown desk", "black chair", "folding chairs", "acoustic guitar", "TurboX laptop", "orange couch","DKNY perfume", "wooden clock", "painting", "red hard drive", "green notebook", "red notebook", "black hard drive", "digital piano"],
+      "index" : "10",
+      "first_obj" : [],
+      "color": [107, 87, 107],
+      "family": "Yes",
+      "fav": "digital piano"
+    },
+
+    {
+      "id":"Dickinson st.",
+      "image": "dickinson",
+      "city": "Cambridge",
+      "year" : "2020",
+      "months": "4",
+      "roommates": ["Emma", "Emily"],
+      "pets": ["A bad cat"],
+      "objects": ["Apple laptop", "DKNY perfume", "accessory bag", "red hard drive","red notebook"],
+      "index" : "11",
+      "first_obj" : ["Apple laptop"],
+      "color": [107, 87, 107],
+      "family": "No",
+      "fav": "Apple laptop"
+    },
+
+    {
+      "id":"Webster ave.",
+      "image": "webster",
+      "city": "Cambridge",
+      "year" : "2021",
+      "months": "4",
+      "roommates": ["Asterios"],
+      "pets": ["None"],
+      "objects": ["Apple laptop", "DKNY perfume", "accessory bag", "red hard drive", "red notebook", "grey couch", "grey table"],
+      "index" : "12",
+      "first_obj" : ["grey couch", "grey table"],
+      "color": [107, 87, 107],
+      "family": "Sort of",
+      "fav": "Apple laptop"
+    }
+  ],
+
+  "Objects": [
+
+    {
+      "ids": ["white bed", "white bookcase", "white desk", "red chair", "black chair", "folding chairs", "NEC laptop", "Acer laptop", "TurboX laptop", "brown desk","Apple laptop", "white speakers", "porcelain doll", "pink alarm", "DKNY perfume", "easel", "acoustic guitar", "piano", "digital piano", "orange couch", "monkey", "wooden clock", "painting", "accessory bag", "red hard drive", "green notebook", "red notebook", "grey couch", "grey table", "mirror", "black hard drive"],
+      "chronological": ["white bed", "white bookcase", "white desk", "red chair", "NEC laptop", "white speakers", "porcelain doll", "pink alarm", "acoustic guitar", "piano", "DKNY perfume", "monkey", "wooden clock", "painting", "mirror", "digital piano", "orange couch", "folding chairs", "brown desk", "easel","Acer laptop", "accessory bag", "black chair","green notebook", "black hard drive","TurboX laptop", "red hard drive", "red notebook","Apple laptop","grey couch", "grey table"]
+    }
+  ],
+
+  "Categories": [
+    {
+        "furniture": ["white bed", "white bookcase", "white desk", "brown desk", "red chair", "black chair", "folding chairs", "easel", "orange couch", "painting", "mirror", "grey couch", "grey table"],
+      "electronics": ["NEC laptop", "Acer laptop", "TurboX laptop", "Apple laptop", "white speakers", "black hard drive","red hard drive"],
+      "miscellaneous": ["porcelain doll", "pink alarm", "DKNY perfume", "monkey", "wooden clock", "accessory bag", "green notebook", "red notebook"],
+      "instruments": ["acoustic guitar", "piano", "digital piano"],
+      "analogue": ["white bed", "white bookcase", "white desk", "red chair", "porcelain doll", "pink alarm", "acoustic guitar", "piano", "DKNY perfume", "monkey", "wooden clock", "painting", "mirror", "orange couch", "folding chairs", "brown desk", "easel", "accessory bag", "black chair","green notebook", "red notebook","grey couch", "grey table"],
+      "digital": ["NEC laptop", "white speakers","digital piano","black hard drive","TurboX laptop", "red hard drive", "Acer laptop", "Apple laptop"],
+      "heavy": ["white bed", "white bookcase", "white desk", "piano", "digital piano", "orange couch", "brown desk", "grey couch", "grey table"],
+      "medium": ["red chair", "acoustic guitar", "white speakers", "painting", "mirror", "folding chairs", "easel", "black chair"],
+      "light": [ "NEC laptop", "black hard drive","TurboX laptop", "red hard drive", "Acer laptop", "Apple laptop", "porcelain doll", "pink alarm", "DKNY perfume", "monkey", "wooden clock","accessory bag","green notebook", "red notebook"]
+    }
+
+  ]
+}
+
